@@ -55,9 +55,9 @@ var otherUrls = [
 	'https://porncgw.github.io/',
 ];
 var foreverUrls = [
-	  'https://95ea.tlddzzpn.cc',
+	  'https://porncgw.com',
 	JumpPage,
-	'https://tlqrfare.cc',
+	'https://pornchigua.com',
 	
 ];
 var notices = [
