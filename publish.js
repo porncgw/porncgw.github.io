@@ -42,7 +42,7 @@ var urls=[
     'tlddzzpn.cc/',
 ];                                                                                                                  
 
-var JumpPage="https://tlqrfare.cc";
+var JumpPage="https://95ea.tlddzzpn.cc";
 
 var newestUrls = [];
 
