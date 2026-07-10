@@ -51,7 +51,7 @@ for(var i =0;i<urls.length*3;i++){
 }
 
 var otherUrls = [
-	'https://52dh.pages.dev',
+	'https://porncgw.pages.dev',
 	'https://porncgw.github.io/',
 ];
 var foreverUrls = [
