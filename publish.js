@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[
-	'dqyqpolfz.cc', 
-	'dqyqpolfz.cc', 
-    'dqyqpolfz.cc',
+	'gtnwcfvqi.com', 
+	'gtnwcfvqi.com', 
+    'gtnwcfvqi.com',
 ];                                                                                                                  
 
 var JumpPage="";
