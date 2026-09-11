@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[
-	'gtnwcfvqi.com', 
-	'gtnwcfvqi.com', 
-    'gtnwcfvqi.com',
+	'mqamlhro.com', 
+	'mqamlhro.com', 
+    'mqamlhro.com',
 ];                                                                                                                  
 
 var JumpPage="";
