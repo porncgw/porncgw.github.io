@@ -42,7 +42,7 @@ var urls=[
 	'dwhykrzz.com',
 ];                                                                                                                  
 
-var JumpPage="http://zk28x31k.cc";
+var JumpPage="http://dhwmao808.cc";
 
 var newestUrls = [];
 
